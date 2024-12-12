@@ -18,16 +18,19 @@ Year: Release year of movie.
 1) Count of movies by countries
 By this chart, we can see the count of Movies by countries
 
-
-
+![Screenshot (286)](https://github.com/user-attachments/assets/92598d09-d6c7-449c-9521-a08f868d5182)
 
 2) Count of movies by genre
 Below represents count of movies by genre.
 
 
+![Screenshot (287)](https://github.com/user-attachments/assets/cc62bf9c-e517-4f63-93af-99cb31cbf83d)
+
 3) Number of successful and unsuccessful movies
 Below is the number of successful and unsuccessful movies.
 
+
+![Screenshot (288)](https://github.com/user-attachments/assets/a83bc5ef-9eef-4ce3-923b-494ebec2a327)
 
 4) Number of movies released annually and movie budget distribution
 
