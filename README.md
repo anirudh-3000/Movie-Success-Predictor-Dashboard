@@ -1,6 +1,6 @@
 # Movie-Success-Predictor-Dashboard
 
-The dashboard is based on visualizing the cleaned TMDB movies dataset. This is the dataset which I used in my 'Movie-Success-Predictor' Project: https://github.com/anirudh-3000/Movie-Success-Predictor. used in my  We try to find out relationship between various features of movies such as genre, runtime, vote average and how these features affect success.
+The dashboard is based on visualizing the cleaned TMDB movies dataset. This is the dataset which I used in my 'Movie-Success-Predictor' Project: https://github.com/anirudh-3000/Movie-Success-Predictor. Here we try to find out relationship between various features of movies such as genre, runtime, vote average and how these features affect success.
 
 Dataset information:
 Movie id: Unique identifier for each movie.
