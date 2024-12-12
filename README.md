@@ -1,6 +1,6 @@
 # Movie-Success-Predictor-Dashboard
 
-The dashboard is based on visualizing the cleaned data of a TMDB movie dataset.
+The dashboard is based on visualizing the cleaned data of a TMDB movie dataset. We try to find out relationship between various features of movies such as genre, runtime, vote average and how these features affect success.
 
 Dataset information:
 Movie id: Unique identifier for each movie.
@@ -15,30 +15,17 @@ Runtime: Duration of the movie in minutes.
 Country: Country of movie production.
 Year: Release year of movie.
 
-1) Count of movies by countries
-By this chart, we can see the count of Movies by countries
+Snapshot of the dashboard:
+![Screenshot (289)](https://github.com/user-attachments/assets/6337fe22-2eee-4dcd-9358-cefdf05d07a2)
 
-![Screenshot (286)](https://github.com/user-attachments/assets/92598d09-d6c7-449c-9521-a08f868d5182)
+1) Count of movies by runtime, vote average, genre  and countries:
+We analyze distribution of movies by considering features like genre, runtime, vote average and country.
 
-2) Count of movies by genre
-Below represents count of movies by genre.
+2) Number of successful and unsuccessful movies:
+Shows the number of successful and unsuccessful movies. Both successful and unsuccessful movies are almost divided into equal halves, signifying that the dataset is balanced.
 
-
-![Screenshot (287)](https://github.com/user-attachments/assets/cc62bf9c-e517-4f63-93af-99cb31cbf83d)
-
-3) Number of successful and unsuccessful movies
-Below is the number of successful and unsuccessful movies.
-
-
-![Screenshot (288)](https://github.com/user-attachments/assets/a83bc5ef-9eef-4ce3-923b-494ebec2a327)
-
-4) Number of movies released annually and movie budget distribution
-
-
-5) Count of success by genre, runtime, vote average and country
-We analyze how features like genre, runtime, vote average and country affect success of movie.
-
-
+3) Count of success by vote average, runtime and genre:
+We try to analyze how these features (vote average, runtime and genre) affect success chances (for eg: genre which has higher count of successful movies has higher chance of future success).
 
 
 
